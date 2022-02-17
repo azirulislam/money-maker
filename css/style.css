@@ -1,0 +1,21 @@
+.my-saving{
+    color: rgba(224, 139, 28, 0.877);
+    font-weight: bold;
+    padding: 20px;
+}
+.image{
+    width: 540px;
+    height: 600px;
+}
+.food{
+    display: inline-block;
+}
+.rent{
+    display: inline-block; 
+}
+.cloth{
+    display: inline-block;
+}
+.savings{
+    display: inline-block;
+}
